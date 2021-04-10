@@ -7,3 +7,4 @@
 	path = rsoi
 	url = https://github.com/boshek/rsoi
 	shallow = true
+	registered = true
