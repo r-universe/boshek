@@ -8,3 +8,4 @@
 	url = https://github.com/boshek/rsoi
 	shallow = true
 	registered = true
+	oncran = true
